@@ -47,8 +47,8 @@ body {
   border-radius: 10px;
   border: 5px solid var(--secondary-color);
   padding: 40px;
-  width: 50%;
   margin-bottom: 30px;
+  width: 100vh
 }
 
 .post-item .post-header {
